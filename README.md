@@ -5,15 +5,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanmiko15&label=Profile%20views&color=0e75b6&style=flat" alt="irfanmiko15" /> </p>
 
 🌱 I’m currently learning <br/>
-&emsp• Swift<br/>
-&emsp• Flutter<br/>
-&emsp• TDD<br/>
-&emsp• DDD<br/>
+&emsp;• Swift<br/>
+&emsp;• Flutter<br/>
+&emsp;• TDD<br/>
+&emsp;• DDD<br/>
 
 💬 Ask me about<br/>
-&nbsp;&nbsp;• Flutter<br/>
-  • Dart<br/>
-  • SwiftUI<br/>
+&emsp;• Flutter<br/>
+&emsp;• Dart<br/>
+&emsp;• SwiftUI<br/>
 
 📫 Reach me on **irfandarys@gmail.com**
 
