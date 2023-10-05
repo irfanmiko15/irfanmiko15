@@ -4,11 +4,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanmiko15&label=Profile%20views&color=0e75b6&style=flat" alt="irfanmiko15" /> </p>
 
-- 🌱 I’m currently learning **Swift**
+🌱 I’m currently learning
+  • Swift
+  • Flutter
+  • TDD
+  • DDD
 
-- 💬 Ask me about **Flutter,Dart,SwiftUI**
+💬 Ask me about
+  • Flutter
+  • Dart
+  • SwiftUI
 
-- 📫 How to reach me **irfandarys@gmail.com**
+📫 Reach me on **irfandarys@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,6 +29,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanmiko15&show_icons=true&locale=en&layout=compact" alt="irfanmiko15" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irfanmiko15&show_icons=true&locale=en" alt="irfanmiko15" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irfanmiko15&" alt="irfanmiko15" /></p>
 
