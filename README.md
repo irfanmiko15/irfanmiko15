@@ -1,4 +1,6 @@
-
+<p align="center">
+<img src="![Blue Modern Gradient Technology LinkedIn Banner](https://github.com/irfanmiko15/irfanmiko15/assets/66713591/74edba46-e8ba-425e-9a2e-58e4db3f9039)" alt=”my banner”>
+</center>
 <h1 align="center">Hi 👋, I'm Irfan</h1>
 <h3 align="center">an enthusiastic and skilled iOS and Flutter developer, passionate about crafting elegant and efficient mobile applications.</h3>
 
