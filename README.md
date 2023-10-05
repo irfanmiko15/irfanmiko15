@@ -10,10 +10,10 @@
 &nbsp;• TDD<br/>
 &nbsp;• DDD<br/>
 
-💬 Ask me about
-  • Flutter
-  • Dart
-  • SwiftUI
+💬 Ask me about<br/>
+&nbsp;&nbsp;• Flutter<br/>
+  • Dart<br/>
+  • SwiftUI<br/>
 
 📫 Reach me on **irfandarys@gmail.com**
 
